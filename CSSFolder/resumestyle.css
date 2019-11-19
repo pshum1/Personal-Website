@@ -1,0 +1,98 @@
+
+
+body{
+  font-family: "Helvetica Neue";
+  font-weight: 300;
+  /*padding-left: 2.5cm;
+  padding-right: 2.5cm;*/
+  padding-top: 0cm;
+  padding-bottom: 1.0cm;
+}
+
+.paperdimension{
+  padding-left: 7.5cm;
+  padding-right: 7.5cm;
+}
+
+.top{
+  text-align: center;
+  padding-top: 1.0cm;
+}
+
+header ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  width: 100%;
+}
+
+header li{
+  float: left;
+}
+
+header li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  list-style: none;
+}
+
+header li a:hover {
+  background-color: #111;
+}
+
+header .download{
+  float: right;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 24pt;
+}
+
+h2{
+  font-weight: bold;
+}
+
+.date{
+  float: left;
+}
+
+.title{
+  font-weight: bold;
+
+  margin-left: 2.8702cm;
+}
+
+.location{
+  float: right;
+}
+
+.language{
+  margin-left: 2.8702cm;
+}
+
+.title1{
+  margin-left: 1.9cm;
+  font-weight: bold;
+}
+
+#academic_projects .title{
+  margin-left: 1.9cm;
+}
+
+#academic_projects ul{
+  list-style: disc;
+}
+
+ul {
+  margin-left: 3.81cm;
+}
+
+#personal ul{
+  list-style-type: disc;
+}
